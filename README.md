@@ -1,0 +1,2 @@
+# kompressor
+makes deceptive integers
